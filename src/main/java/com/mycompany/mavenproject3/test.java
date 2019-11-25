@@ -11,6 +11,14 @@ package com.mycompany.mavenproject3;
  */
 public class test {
     private String te="jhjhj";
+
+	public String getTe() {
+		return te;
+	}
+
+	public void setTe(String te) {
+		this.te = te;
+	}
     
    
 }
