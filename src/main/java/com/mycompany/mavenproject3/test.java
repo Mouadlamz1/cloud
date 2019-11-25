@@ -10,5 +10,5 @@ package com.mycompany.mavenproject3;
  * @author LAMZOUKI
  */
 public class test {
-    
+    private String te;
 }
