@@ -18,7 +18,5 @@ public class test {
 
 	public void setTe(String test) {
 		this.test = test;
-	}
-    TestUnit name = new TestUnit();
-   
+	}   
 }
