@@ -19,6 +19,6 @@ public class test {
 	public void setTe(String test) {
 		this.test = test;
 	}
-    TestUnit nae = new TestUnit();
+    TestUnit name = new TestUnit();
    
 }
