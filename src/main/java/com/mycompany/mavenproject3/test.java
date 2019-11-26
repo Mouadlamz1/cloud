@@ -16,9 +16,9 @@ public class test {
 		return test;
 	}
 
-	public void setTe(String te) {
-		this.test = te;
+	public void setTe(String test) {
+		this.test = test;
 	}
-    TestUnit tu = new TestUnit();
+    
    
 }
