@@ -10,7 +10,7 @@ package com.mycompany.mavenproject3;
  * @author LAMZOUKI
  */
 public class test {
-    private String test;
+    private String test,tes;
 
 	public String getTe() {
 		return test;
