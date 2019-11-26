@@ -11,7 +11,7 @@ package com.mycompany.mavenproject3;
  */
 public class test {
     private String test;
-
+    private String test3;
 	public String getTe() {
 		return test;
 	}
