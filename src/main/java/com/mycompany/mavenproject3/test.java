@@ -10,13 +10,13 @@ package com.mycompany.mavenproject3;
  * @author LAMZOUKI
  */
 public class test {
-    private String testE;
+    private String testEe;
     private String test3;
 	public String getTe() {
-		return testE;
+		return testEe;
 	}
 
 	public void setTe(String test) {
-		this.testE = test;
+		this.testEe = test;
 	}   
 }
